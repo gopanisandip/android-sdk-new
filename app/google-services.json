@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "622590763241",
+    "firebase_url": "https://mow-players.firebaseio.com",
+    "project_id": "mow-players",
+    "storage_bucket": "mow-players.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622590763241:android:6e4d7bd2d361d23e",
+        "android_client_info": {
+          "package_name": "com.mowplayer.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622590763241-07qaqgr8g07vbtlt3kljntftbv4j3ose.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD53k0FTuJP_FGLuLzsJbEsEe0qZLKDJDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622590763241-07qaqgr8g07vbtlt3kljntftbv4j3ose.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

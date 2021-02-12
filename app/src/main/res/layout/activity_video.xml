@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/main_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="40dp">
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/edtCode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter code here" />
+
+        <RadioGroup
+            android:id="@+id/rgVideoPlayer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp">
+
+            <RadioButton
+                android:id="@+id/rbSingle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="Test" />
+
+            <RadioButton
+                android:id="@+id/rbList"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="The Smoking Tire" />
+
+            <RadioButton
+                android:id="@+id/rbLive"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Big Buck Bunn" />
+
+            <RadioButton
+                android:id="@+id/rbArticle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cardiac arrhythmia heart rhythm" />
+        </RadioGroup>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnPlay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Play Video" />
+    </LinearLayout>
+</ScrollView>

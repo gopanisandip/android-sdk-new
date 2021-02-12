@@ -1,0 +1,80 @@
+{
+  "autoplay": false,
+  "_mute": 1,
+  "_auto_permalink": null,
+  "media": [
+    {
+      "id": 2157632377,
+      "title": "The Smoking Tire",
+      "thumbnail": "https://newcdn.mowplayer.com/341063954197/2020/10/05/thumbnails/i7ncxudqb5xykyc8.jpg",
+      "duration": 567,
+      "file": "https://newcdn.mowplayer.com/341063954197/2020/10/05/144/hvuk4lwzkxt9khgw.mp4",
+      "ads": {
+        "marketplace": [
+          {
+            "id": 5131,
+            "url": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/124319096/external/single_ad_samples&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dlinear%26receptivity%3Dreceptivity_value&correlator=",
+            "client": "google-dfp",
+            "time": 0
+          },
+          {
+            "id": 5148,
+            "url": "https://pubads.g.doubleclick.net/gampad/ads?sz=480x70&iu=/124319096/external/single_ad_samples&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dnonlinear%26receptivity%3Dreceptivity_value&correlator=",
+            "client": "google-dfp",
+            "time": "50%"
+          },
+          {
+            "id": 5142,
+            "url": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/124319096/external/single_ad_samples&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dlinear%26receptivity%3Dreceptivity_value&correlator=",
+            "client": "google-dfp",
+            "time": "-1"
+          }
+        ],
+        "publisher": []
+      },
+      "mowplay_ads": {
+        "marketplace": [],
+        "publisher": []
+      },
+      "callback_ads": [],
+      "description": "The Smoking Tire meets up with Chris and Jorge from CarsForAGrand.com to see just how far $1,000 can go when looking for a car.The Smoking Tire meets up with Chris and Jorge from CarsForAGrand.com",
+      "_nv": {
+        "title": "The Smoking Tire",
+        "description": "The Smoking Tire meets up with Chris and Jorge from CarsForAGrand.com to see just how far $1,000 can go when looking for a car.The Smoking Tire meets up with Chris and Jorge from CarsForAGrand.com",
+        "url": "https://mowplay.com/video/v-mgm2bgjuifl"
+      }
+    }
+  ],
+  "auth": "J0gWuRr9i0Ssxx+ppcsCKStrHVUhB97J3PpAblC19aJ2G7r8IvpNe1/Z/Vp1bUFiWvLPG0NvU+kZOMf75dKokhK/0dQx5vLZJ1w5PJFP4mqTEBF0KnQ73iPDplikBIfE324TNeQ9cbZ6ynQdsJTAF6Juq/a0hJHU4A8rcJawDpaM98yOj+oumeqrWUXBWUsoikd2L61fjvseEwqzwwKMH0nCa8VDofnD2DXw0yalyNcoMW70JG1Jlzrx2PJ23Rl/IlfmUCIjvKMG/nd6o4hIxmmxUCq4FwQcWIdjiC23z7ezvEzQUh9uKJMe3hPgNEREsomtH4GiN4lUxDXUBbnUsVnCB1X79OvabeMesUk+O/rEtsR5BDxnoabZ2iCYZMLXdUXQWXh5eqWRUQIUUCXjxX65D7950CmYmNup1mxOcMrepy8R+Be2gVVhXOsRdTKLxzFo/xqGlJoK0sD+WMRdjqQPNxsyL7DKhn5TEhyJhBOkz/7qCiLgtxrLpy16J8UFXlQdpot3j057Dp7BPxJAVEpsUgQi0Z1PVzyi7eCoDNMj+eNPjKTaV1hJClGdxz8oA6VbEa4mR38E0PDoe9z02AE4kiQVCRdb1VZ/f7fdrkbQj+0jVfiULaeOacmUL9OPcEW9yTdvfIb+D6oZk/atDyFSrNcat1J/8QWmTle6gro=",
+  "mute": false,
+  "volume": 80,
+  "tracking": {
+    "throttle": 10000,
+    "readyDelay": 3000,
+    "url": "https://api.mowplayer.com/media/statistics/update",
+    "events": [
+      "first_play",
+      "progress"
+    ],
+    "ignoreEvents": [],
+    "beacon_enabled": true
+  },
+  "sharing": true,
+  "related": "https://api.mowplayer.com/media/related/videos",
+  "sticky": {
+    "enabled": true,
+    "position": "bottom_right"
+  },
+  "mobile_full_width": true,
+  "ads": {
+    "forceSkipable": true,
+    "forceSkipTime": 5,
+    "pre_roll_check_priority": true
+  },
+  "autoplay_related": {
+    "enabled": true,
+    "related_timeout": 0,
+    "timeout": 6
+  },
+  "responsive": true
+}

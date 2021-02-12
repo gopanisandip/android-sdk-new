@@ -1,0 +1,6 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid android:color="@color/background_progress_color" />
+
+    <corners android:radius="5px" />
+</shape>
